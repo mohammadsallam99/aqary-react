@@ -1,0 +1,139 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 22/06/2016 15:17
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-2-store-building:before { content: "\f100"; }
+.flaticon-4-store-building:before { content: "\f101"; }
+.flaticon-apartment-building:before { content: "\f102"; }
+.flaticon-apartment-house:before { content: "\f103"; }
+.flaticon-apartment-house-1:before { content: "\f104"; }
+.flaticon-apartment-house-2:before { content: "\f105"; }
+.flaticon-big-castle:before { content: "\f106"; }
+.flaticon-big-glamourous-house:before { content: "\f107"; }
+.flaticon-big-office-building:before { content: "\f108"; }
+.flaticon-big-skyscrapers:before { content: "\f109"; }
+.flaticon-castle-with-three-towers:before { content: "\f10a"; }
+.flaticon-catholic-church:before { content: "\f10b"; }
+.flaticon-closed-barn:before { content: "\f10c"; }
+.flaticon-closed-garage:before { content: "\f10d"; }
+.flaticon-country-family-house:before { content: "\f10e"; }
+.flaticon-country-house:before { content: "\f10f"; }
+.flaticon-duplex-house:before { content: "\f110"; }
+.flaticon-english-cottage:before { content: "\f111"; }
+.flaticon-expensive-house:before { content: "\f112"; }
+.flaticon-family-house-facade:before { content: "\f113"; }
+.flaticon-fire-station:before { content: "\f114"; }
+.flaticon-flat-plant:before { content: "\f115"; }
+.flaticon-hospital-with-cross:before { content: "\f116"; }
+.flaticon-house-with-garage:before { content: "\f117"; }
+.flaticon-house-with-hearth:before { content: "\f118"; }
+.flaticon-industrial-plant:before { content: "\f119"; }
+.flaticon-industrial-zone:before { content: "\f11a"; }
+.flaticon-lighthouse-construction:before { content: "\f11b"; }
+.flaticon-little-store:before { content: "\f11c"; }
+.flaticon-loft-building:before { content: "\f11d"; }
+.flaticon-loft-with-windows:before { content: "\f11e"; }
+.flaticon-mosque-facade:before { content: "\f11f"; }
+.flaticon-museum-facade:before { content: "\f120"; }
+.flaticon-nuclear-plant-chimneys:before { content: "\f121"; }
+.flaticon-office-building:before { content: "\f122"; }
+.flaticon-office-store:before { content: "\f123"; }
+.flaticon-police-station-facade:before { content: "\f124"; }
+.flaticon-rural-house:before { content: "\f125"; }
+.flaticon-russian-orthodox-church:before { content: "\f126"; }
+.flaticon-school-building:before { content: "\f127"; }
+.flaticon-skyscraper-building:before { content: "\f128"; }
+.flaticon-skyscraper-with-antennas:before { content: "\f129"; }
+.flaticon-small-chapel:before { content: "\f12a"; }
+.flaticon-small-wind-mill:before { content: "\f12b"; }
+.flaticon-street-shop:before { content: "\f12c"; }
+.flaticon-supermaket:before { content: "\f12d"; }
+.flaticon-synagogue:before { content: "\f12e"; }
+.flaticon-theater-facade:before { content: "\f12f"; }
+.flaticon-tv-tower:before { content: "\f130"; }
+.flaticon-water-tower:before { content: "\f131"; }
+    
+    $font-Flaticon-2-store-building: "\f100";
+    $font-Flaticon-4-store-building: "\f101";
+    $font-Flaticon-apartment-building: "\f102";
+    $font-Flaticon-apartment-house: "\f103";
+    $font-Flaticon-apartment-house-1: "\f104";
+    $font-Flaticon-apartment-house-2: "\f105";
+    $font-Flaticon-big-castle: "\f106";
+    $font-Flaticon-big-glamourous-house: "\f107";
+    $font-Flaticon-big-office-building: "\f108";
+    $font-Flaticon-big-skyscrapers: "\f109";
+    $font-Flaticon-castle-with-three-towers: "\f10a";
+    $font-Flaticon-catholic-church: "\f10b";
+    $font-Flaticon-closed-barn: "\f10c";
+    $font-Flaticon-closed-garage: "\f10d";
+    $font-Flaticon-country-family-house: "\f10e";
+    $font-Flaticon-country-house: "\f10f";
+    $font-Flaticon-duplex-house: "\f110";
+    $font-Flaticon-english-cottage: "\f111";
+    $font-Flaticon-expensive-house: "\f112";
+    $font-Flaticon-family-house-facade: "\f113";
+    $font-Flaticon-fire-station: "\f114";
+    $font-Flaticon-flat-plant: "\f115";
+    $font-Flaticon-hospital-with-cross: "\f116";
+    $font-Flaticon-house-with-garage: "\f117";
+    $font-Flaticon-house-with-hearth: "\f118";
+    $font-Flaticon-industrial-plant: "\f119";
+    $font-Flaticon-industrial-zone: "\f11a";
+    $font-Flaticon-lighthouse-construction: "\f11b";
+    $font-Flaticon-little-store: "\f11c";
+    $font-Flaticon-loft-building: "\f11d";
+    $font-Flaticon-loft-with-windows: "\f11e";
+    $font-Flaticon-mosque-facade: "\f11f";
+    $font-Flaticon-museum-facade: "\f120";
+    $font-Flaticon-nuclear-plant-chimneys: "\f121";
+    $font-Flaticon-office-building: "\f122";
+    $font-Flaticon-office-store: "\f123";
+    $font-Flaticon-police-station-facade: "\f124";
+    $font-Flaticon-rural-house: "\f125";
+    $font-Flaticon-russian-orthodox-church: "\f126";
+    $font-Flaticon-school-building: "\f127";
+    $font-Flaticon-skyscraper-building: "\f128";
+    $font-Flaticon-skyscraper-with-antennas: "\f129";
+    $font-Flaticon-small-chapel: "\f12a";
+    $font-Flaticon-small-wind-mill: "\f12b";
+    $font-Flaticon-street-shop: "\f12c";
+    $font-Flaticon-supermaket: "\f12d";
+    $font-Flaticon-synagogue: "\f12e";
+    $font-Flaticon-theater-facade: "\f12f";
+    $font-Flaticon-tv-tower: "\f130";
+    $font-Flaticon-water-tower: "\f131";
